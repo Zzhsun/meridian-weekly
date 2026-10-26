@@ -570,7 +570,7 @@
   }
 
   document.querySelectorAll('[data-mode]').forEach(b => b.addEventListener('click', () => { S.mode = b.dataset.mode; store.set('mode', S.mode); render(); }));
-  document.querySelectorAll('[data-view]').forEach(b => b.addEventListener('click', () => { S.view = b.dataset.view; store.set('view', S.view); render(); }));
+  document.querySelectorAll('[data-view]').forEach(b => b.addEventListener('click', () => { S.view = b.dataset.view; render(); }));
   $('#prevWeek').addEventListener('click', () => changeWeek(-7));
   $('#nextWeek').addEventListener('click', () => changeWeek(7));
   $('#addBtn').addEventListener('click', openAdd);
@@ -588,8 +588,8 @@
   S.week = mondayOf(S.today);
   S.hidden = new Set(store.get('hidden', []));
   S.mode = store.get('mode', 'all') === 'mine' ? 'mine' : 'all';
-  const savedView = store.get('view', null);
-  S.view = savedView === 'grid' || savedView === 'list' ? savedView : (window.matchMedia('(max-width: 760px)').matches ? 'list' : 'grid');
+  // The page always opens on the list; the week grid is the other option.
+  S.view = 'list';
   render();
   boot();
   setInterval(() => {
