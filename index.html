@@ -1,0 +1,87 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="robots" content="noindex,nofollow">
+<title>子午追台週表</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&family=LXGW+WenKai+TC:wght@400;700&family=Noto+Sans+TC:wght@400;500;700&display=swap">
+<style>
+:root{color-scheme:light;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
+body{margin:0}
+img{max-width:100%}
+[hidden]{display:none!important}
+</style>
+<link rel="stylesheet" href="app.css">
+<style>
+.lnotice{margin:0;padding:10px 14px;border-radius:10px;background:var(--warn-bg);color:var(--warn);border:1px solid var(--warn-line);font-size:13px}
+.tbody{display:flex;flex-direction:column;gap:12px}
+/* The QR code stays dark-on-white in both themes so phone cameras can read it. */
+.qr{display:grid;place-items:center;min-height:120px;width:min(260px,100%);margin:0 auto;padding:6px;border-radius:12px;background:#FFFFFF;color:#1B2030;font-size:13px;text-align:center}
+.qr svg{display:block;width:100%;height:auto}
+.tlink{display:flex;gap:8px}
+.tlink input{flex:1 1 auto;min-width:0;padding:8px 10px;border:1px solid var(--line-strong);border-radius:8px;background:var(--bg);color:var(--ink);font-family:var(--font-mono);font-size:12px}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header class="top">
+    <div class="brand">
+      <h1>子午追台週表</h1>
+      <p>子午計畫女子組 12 人的週表，時間都是台灣時間。每週二晚上 7 點自動從她們的 YouTube 貼文和週表待機室更新。你的選擇只存在這台裝置的瀏覽器裡。</p>
+    </div>
+    <nav class="weeknav" aria-label="切換週次">
+      <button class="iconbtn" id="prevWeek" type="button" aria-label="上一週">‹</button>
+      <div class="weeklabel"><b id="weekRange">—</b><span id="weekTag"></span></div>
+      <button class="iconbtn" id="nextWeek" type="button" aria-label="下一週">›</button>
+    </nav>
+  </header>
+
+  <div class="toolbar">
+    <div class="seg" role="group" aria-label="顯示範圍">
+      <button type="button" data-mode="all" aria-pressed="true">全部台</button>
+      <button type="button" data-mode="mine" aria-pressed="false">我的週表</button>
+    </div>
+    <div class="seg" role="group" aria-label="版面">
+      <button type="button" data-view="grid" aria-pressed="true">週曆</button>
+      <button type="button" data-view="list" aria-pressed="false">清單</button>
+    </div>
+    <span class="spacer"></span>
+    <button class="btn" type="button" id="addBtn">＋ 自己加一場</button>
+    <button class="btn" type="button" id="copyBtn">複製我的週表</button>
+    <button class="btn" type="button" id="transferBtn">傳到其他裝置</button>
+    <button class="btn" type="button" id="exportBtn" hidden>匯出到 Google 日曆</button>
+  </div>
+
+  <div class="status" id="status" aria-live="polite"></div>
+  <p class="missing" id="missing" hidden></p>
+  <div class="legend" id="legend"></div>
+  <main id="main"><div class="empty">正在讀取週表…</div></main>
+  <p class="foot">點任何一場都能選「看直播、晚點補檔、跳過」。同時段有兩場以上、還沒決定看哪台的，會標上「撞台」（週曆上是格子上緣的橘色條）。格子裡的紫色「Tw」代表在 Twitch 開台。格子太窄時，把滑鼠移上去就會展開完整標題。連動只算一場，不會誤判撞台。選擇只存在這台裝置；要在手機上看到同樣的選擇，按「傳到其他裝置」用手機掃 QR code。</p>
+</div>
+
+<div class="scrim" id="scrim" hidden></div>
+<section class="sheet" id="sheet" role="dialog" aria-modal="true" aria-labelledby="sheetTitle" hidden>
+  <button class="iconbtn close" type="button" id="sheetClose" aria-label="關閉">×</button>
+  <div id="sheetBody"></div>
+</section>
+
+<div class="scrim" id="tscrim" hidden></div>
+<section class="sheet" id="transfer" role="dialog" aria-modal="true" aria-labelledby="tTitle" hidden>
+  <button class="iconbtn close" type="button" id="tClose" aria-label="關閉">×</button>
+  <div class="tbody">
+    <h2 id="tTitle">把選擇傳到其他裝置</h2>
+    <p class="sh-sub" id="tCount"></p>
+    <div class="qr" id="tQr"></div>
+    <p class="sh-sub">用手機相機掃 QR code，或把連結傳給自己再打開。打開後，這些選擇會帶進那台裝置；同一場原本的選擇會被蓋過去。</p>
+    <div class="tlink"><input id="tLink" type="text" readonly aria-label="傳送用的連結"><button class="btn" type="button" id="tCopy">複製連結</button></div>
+  </div>
+</section>
+<div class="toast" id="toast" role="status" hidden></div>
+
+<script src="local.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
