@@ -1,0 +1,961 @@
+{
+    "members":  {
+                    "hitomi":  {
+                                   "active":  true,
+                                   "color":  "#8B5CF6",
+                                   "dur":  120,
+                                   "frame":  "LCTqnUYmpEg",
+                                   "group":  "序境 TeRaź",
+                                   "handle":  "@実Hitomi",
+                                   "name":  "実Hitomi",
+                                   "order":  9,
+                                   "posts":  false,
+                                   "seen":  [
+                                                "F89F3BA6C90D7EC9DEC066ED4FC13089D502B1B4C3A547FAFC115962B9651543"
+                                            ],
+                                   "twitch":  "hitomi_teraz",
+                                   "yt":  "UC2mtxQezpgWjqMXF6WkuMiw"
+                               },
+                    "hiyori":  {
+                                   "active":  true,
+                                   "color":  "#24A0A0",
+                                   "dur":  120,
+                                   "frame":  "iJxK67_osN4",
+                                   "group":  "序境 TeRaź",
+                                   "handle":  "@煦Hiyori",
+                                   "name":  "煦Hiyori",
+                                   "order":  8,
+                                   "posts":  true,
+                                   "seen":  [
+                                                "F3FB488A16547B44DBB14B8CDEA5F23313C37FB50195BF5DF76CF803D98B3682",
+                                                "B8C33A20415F280874D0ABB075B1E9015649D75CE3DF15453FB48C63292D898F"
+                                            ],
+                                   "twitch":  "hiyori_teraz",
+                                   "yt":  "UCyO8Nae_zF-OpxtbL01Dwow"
+                               },
+                    "ichii":  {
+                                  "active":  true,
+                                  "color":  "#F05A78",
+                                  "dur":  120,
+                                  "frame":  "8lEfG-uV19Y",
+                                  "group":  "沉珀 Aetris",
+                                  "handle":  "@莓Ichii",
+                                  "name":  "莓Ichii",
+                                  "order":  10,
+                                  "posts":  false,
+                                  "seen":  [
+                                               "7ABF17C0F858F24116902864318564B56048851ED980FC39A9EAB6D2EB430E31",
+                                               "9AEF1F041463F0AB8B721A169166EB7E4BC7C1F87422AD8315C103530B64BFC7",
+                                               "BE8A2BBD65CB8AA7CCD0ECE36230907D1A31BCCF969E5EFF5B2F9DAB71D23D56"
+                                           ],
+                                  "twitch":  "ichii_aetris",
+                                  "yt":  "UCt0CvoFAgrhVYd1X4P5Lqng"
+                              },
+                    "iruni":  {
+                                  "active":  true,
+                                  "color":  "#C49A2C",
+                                  "dur":  120,
+                                  "frame":  null,
+                                  "group":  "扉暮 IANVS",
+                                  "handle":  "@IruniIanvs",
+                                  "name":  "祈Iruni",
+                                  "order":  4,
+                                  "posts":  true,
+                                  "seen":  [
+                                               "EAD4ACB05798FE08FA869390BB40BB60EB4FC0B6F3450EA762AD19FBDBABE472"
+                                           ],
+                                  "twitch":  "iruni_ianvs",
+                                  "yt":  "UCUEXMpxIa7le_CK6yYRAboA"
+                              },
+                    "iseri":  {
+                                  "active":  true,
+                                  "color":  "#3D4FC4",
+                                  "dur":  120,
+                                  "frame":  "zG5qRezLl-M",
+                                  "group":  "沉珀 Aetris",
+                                  "handle":  "@宓Iseri",
+                                  "name":  "宓Iseri",
+                                  "order":  11,
+                                  "posts":  true,
+                                  "seen":  [
+                                               "4A4E69CAC2B4179106A51E3914A0DBBDDB5C7DFD4867831FFC69E2772992C88F",
+                                               "52DE5F3694284527FBDDDA15851C443C690A2E43831F5A79079E146D0A807257"
+                                           ],
+                                  "twitch":  "iseri_aetris",
+                                  "yt":  "UC8XL4U2dRKDi4DcjsPnc4Zg"
+                              },
+                    "itsuki":  {
+                                   "active":  true,
+                                   "color":  "#8E3B6E",
+                                   "dur":  120,
+                                   "frame":  "j1RDMkRZvjI",
+                                   "group":  "扉暮 IANVS",
+                                   "handle":  "@ItsukiIanvs",
+                                   "name":  "玥Itsuki",
+                                   "order":  5,
+                                   "posts":  true,
+                                   "seen":  [
+                                                "4A4310653C3EB43DB7E66D1D584E562B6EE88F9572EC5F3254289068A683BEC0",
+                                                "6FE6549BC9B2B71E9500DE78BDF240B1B5AC905C6DBAA6B6B0C5B9488333D27B"
+                                            ],
+                                   "twitch":  "itsuki_ianvs",
+                                   "yt":  "UCk-n2qPASA48IPgtYAsLYJg"
+                               },
+                    "kirali":  {
+                                   "active":  true,
+                                   "color":  "#E0559A",
+                                   "dur":  120,
+                                   "frame":  "eYB3sdGJULs",
+                                   "group":  "霓 NEO(n)",
+                                   "handle":  "@煌Kirali",
+                                   "name":  "煌Kirali",
+                                   "order":  1,
+                                   "posts":  true,
+                                   "seen":  [
+                                                "26DE6DAB8B412634154FF44D05BE8FBDF7EF0B7C95ED22CA08678FCFBBF2357A",
+                                                "1B3CA6D5866E013CD24A865F7076C1D89A89CDCB91988A6561DE909FFFCAE1A3"
+                                            ],
+                                   "twitch":  "kirali_neon",
+                                   "yt":  "UCZTw6BZCzfjCarjJMRpU0Wg"
+                               },
+                    "koyuki":  {
+                                   "active":  true,
+                                   "color":  "#6DB33F",
+                                   "dur":  120,
+                                   "frame":  "vJB07Beizzk",
+                                   "group":  "序境 TeRaź",
+                                   "handle":  "@雪Koyuki",
+                                   "name":  "雪Koyuki",
+                                   "order":  7,
+                                   "posts":  true,
+                                   "seen":  [
+                                                "CBBF48248DAEBA36E2284398C3B179A52E5477562B3421B58CBACA2E7184188D",
+                                                "097D88964D499EE21A1708FE91F473FEAABCCE7C9B773259607479D40F93D180"
+                                            ],
+                                   "twitch":  "koyuki_teraz",
+                                   "yt":  "UC8zQumEzXBpWSmbHmr8wMKw"
+                               },
+                    "miri":  {
+                                 "active":  true,
+                                 "color":  "#B794E6",
+                                 "dur":  120,
+                                 "frame":  "eTkyhCecWhg",
+                                 "group":  "沉珀 Aetris",
+                                 "handle":  "@璃Miri",
+                                 "name":  "璃Miri",
+                                 "order":  12,
+                                 "posts":  false,
+                                 "seen":  [
+                                              "454AE601DD8EC5824F4FF24D8F7EFAB85E888ED14EB1936CCE407DEBAE49427A"
+                                          ],
+                                 "twitch":  "miri_aetris",
+                                 "yt":  "UCHCnxECJBxKrMByroUWSgcw"
+                             },
+                    "rei":  {
+                                "active":  true,
+                                "color":  "#4A9BE0",
+                                "dur":  120,
+                                "frame":  "nKdN2Z8VhzY",
+                                "group":  "霓 NEO(n)",
+                                "handle":  "@澪Rei",
+                                "name":  "澪Rei",
+                                "order":  2,
+                                "posts":  false,
+                                "seen":  [
+                                             "D0847088C14DB6952269D7FCFBA2390E51F066FF9267B098BFB71DD80274F135"
+                                         ],
+                                "twitch":  "reirei_neon",
+                                "yt":  "UCbTv4OeHE9p1akLhKfgW8WQ"
+                            },
+                    "sachi":  {
+                                  "active":  true,
+                                  "color":  "#B8322F",
+                                  "dur":  120,
+                                  "frame":  "ycC24zSz80o",
+                                  "group":  "序境 TeRaź",
+                                  "handle":  "@SachiTeRaz",
+                                  "name":  "幸Sachi",
+                                  "order":  6,
+                                  "posts":  true,
+                                  "seen":  [
+                                               "286B789249F92C5AF010BE0415B454CC022E09F60EDA4A1AE61899F87EA78F10",
+                                               "87A9EF6152AE0D9AE2FF247D3C8421594C5A48A0516293395C7F11CA6462BCA6"
+                                           ],
+                                  "twitch":  "sachi_teraz",
+                                  "yt":  "UC6NXFJInhUYGdKeFHhPrtpA"
+                              },
+                    "yuzumi":  {
+                                   "active":  true,
+                                   "color":  "#EF8A2B",
+                                   "dur":  120,
+                                   "frame":  "i0AjfdRW5nk",
+                                   "group":  "霓 NEO(n)",
+                                   "handle":  "@橙Yuzumi",
+                                   "name":  "橙Yuzumi",
+                                   "order":  3,
+                                   "posts":  false,
+                                   "seen":  [
+                                                "4B8A82E4F8AA159A5A7D901ED98B6F25D828FD94DE238579475C285BD9BA953B"
+                                            ],
+                                   "twitch":  "yuzumi_neon",
+                                   "yt":  "UCxI5FyblWfEVBJDbSwRPzyw"
+                               }
+                },
+    "streams":  {
+                    "hitomi-20261027-1000":  {
+                                                 "date":  "2026-10-27",
+                                                 "edited":  false,
+                                                 "host":  "hitomi",
+                                                 "members":  [
+                                                                 "hitomi",
+                                                                 "iseri"
+                                                             ],
+                                                 "platform":  "youtube",
+                                                 "src":  "schedule",
+                                                 "sub":  "這次邀請到的是月光森林女士！",
+                                                 "time":  "10:00",
+                                                 "title":  "【早安実間】子午新聞🔅",
+                                                 "updatedAt":  1793010360738,
+                                                 "week":  "2026-10-26"
+                                             },
+                    "hitomi-20261028-tbd":  {
+                                                "date":  "2026-10-28",
+                                                "edited":  false,
+                                                "host":  "hitomi",
+                                                "maybe":  true,
+                                                "members":  [
+                                                                "hitomi"
+                                                            ],
+                                                "platform":  "youtube",
+                                                "src":  "schedule",
+                                                "time":  null,
+                                                "title":  "突發可能",
+                                                "updatedAt":  1793010360738,
+                                                "week":  "2026-10-26"
+                                            },
+                    "hitomi-20261030-tbd":  {
+                                                "date":  "2026-10-30",
+                                                "edited":  false,
+                                                "host":  "hitomi",
+                                                "maybe":  true,
+                                                "members":  [
+                                                                "hitomi"
+                                                            ],
+                                                "platform":  "youtube",
+                                                "src":  "schedule",
+                                                "time":  null,
+                                                "title":  "突發可能",
+                                                "updatedAt":  1793010360738,
+                                                "week":  "2026-10-26"
+                                            },
+                    "hitomi-20261101-tbd":  {
+                                                "date":  "2026-11-01",
+                                                "edited":  false,
+                                                "host":  "hitomi",
+                                                "maybe":  true,
+                                                "members":  [
+                                                                "hitomi"
+                                                            ],
+                                                "platform":  "youtube",
+                                                "src":  "schedule",
+                                                "time":  null,
+                                                "title":  "突發可能",
+                                                "updatedAt":  1793010360738,
+                                                "week":  "2026-10-26"
+                                            },
+                    "iruni-20261027-tbd":  {
+                                               "date":  "2026-10-27",
+                                               "edited":  false,
+                                               "host":  "iruni",
+                                               "maybe":  true,
+                                               "members":  [
+                                                               "iruni"
+                                                           ],
+                                               "platform":  "youtube",
+                                               "src":  "schedule",
+                                               "time":  null,
+                                               "title":  "柯基突發",
+                                               "updatedAt":  1793010360738,
+                                               "week":  "2026-10-26"
+                                           },
+                    "iruni-20261028-2100":  {
+                                                "date":  "2026-10-28",
+                                                "edited":  false,
+                                                "host":  "iruni",
+                                                "members":  [
+                                                                "iruni"
+                                                            ],
+                                                "platform":  "twitch",
+                                                "src":  "schedule",
+                                                "time":  "21:00",
+                                                "title":  "【還債畫畫】畫頭貼時間！",
+                                                "updatedAt":  1793010360738,
+                                                "week":  "2026-10-26"
+                                            },
+                    "iruni-20261101-2230":  {
+                                                "date":  "2026-11-01",
+                                                "edited":  false,
+                                                "host":  "iruni",
+                                                "members":  [
+                                                                "iruni"
+                                                            ],
+                                                "platform":  "youtube",
+                                                "src":  "schedule",
+                                                "time":  "22:30",
+                                                "title":  "【微醺ASMR】演出結束後的小酌時間♡",
+                                                "updatedAt":  1793010360738,
+                                                "week":  "2026-10-26"
+                                            },
+                    "iseri-20261026-tbd":  {
+                                               "date":  "2026-10-26",
+                                               "edited":  false,
+                                               "host":  "iseri",
+                                               "maybe":  true,
+                                               "members":  [
+                                                               "iseri"
+                                                           ],
+                                               "platform":  "twitch",
+                                               "src":  "schedule",
+                                               "time":  null,
+                                               "title":  "可能宓宓突襲",
+                                               "updatedAt":  1793010360738,
+                                               "week":  "2026-10-26"
+                                           },
+                    "iseri-20261028-2130":  {
+                                                "date":  "2026-10-28",
+                                                "edited":  false,
+                                                "host":  "iseri",
+                                                "members":  [
+                                                                "iseri"
+                                                            ],
+                                                "platform":  "youtube",
+                                                "src":  "schedule",
+                                                "time":  "21:30",
+                                                "title":  "【器官歌回】用身上的器官們大唱一場 :D",
+                                                "updatedAt":  1793010360738,
+                                                "week":  "2026-10-26"
+                                            },
+                    "iseri-20261029-1900":  {
+                                                "date":  "2026-10-29",
+                                                "edited":  false,
+                                                "host":  "iseri",
+                                                "members":  [
+                                                                "iseri"
+                                                            ],
+                                                "platform":  "youtube",
+                                                "src":  "schedule",
+                                                "time":  "19:00",
+                                                "title":  "【加宓語言】10月好快就要結束啦，觀賞Fanart時間到了！",
+                                                "updatedAt":  1793010360738,
+                                                "week":  "2026-10-26"
+                                            },
+                    "iseri-20261030-1600":  {
+                                                "date":  "2026-10-30",
+                                                "edited":  false,
+                                                "host":  "iseri",
+                                                "members":  [
+                                                                "iseri"
+                                                            ],
+                                                "platform":  "twitch",
+                                                "src":  "schedule",
+                                                "time":  "16:00",
+                                                "title":  "【特戰英豪】試著自己偷偷練槍學看地圖！",
+                                                "updatedAt":  1793010360738,
+                                                "week":  "2026-10-26"
+                                            },
+                    "iseri-20261101-tbd":  {
+                                               "date":  "2026-11-01",
+                                               "edited":  false,
+                                               "host":  "iseri",
+                                               "maybe":  true,
+                                               "members":  [
+                                                               "iseri"
+                                                           ],
+                                               "platform":  "youtube",
+                                               "src":  "schedule",
+                                               "time":  null,
+                                               "title":  "宓宓突襲",
+                                               "updatedAt":  1793010360738,
+                                               "week":  "2026-10-26"
+                                           },
+                    "kirali-20261026-2100":  {
+                                                 "date":  "2026-10-26",
+                                                 "edited":  false,
+                                                 "host":  "kirali",
+                                                 "members":  [
+                                                                 "kirali",
+                                                                 "rei",
+                                                                 "yuzumi",
+                                                                 "iruni",
+                                                                 "itsuki"
+                                                             ],
+                                                 "platform":  "youtube",
+                                                 "src":  "schedule",
+                                                 "sub":  "Ft. 霓昂、扉暮",
+                                                 "time":  "21:00",
+                                                 "title":  "【團體爭霸】第一組對決，你們知道大眾的想法嗎？",
+                                                 "updatedAt":  1793010360738,
+                                                 "videoId":  "6W52x7t33-E",
+                                                 "week":  "2026-10-26"
+                                             },
+                    "kirali-20261027-tbd":  {
+                                                "date":  "2026-10-27",
+                                                "edited":  false,
+                                                "host":  "kirali",
+                                                "members":  [
+                                                                "kirali"
+                                                            ],
+                                                "platform":  "twitch",
+                                                "src":  "schedule",
+                                                "time":  null,
+                                                "title":  "阿基咻咻",
+                                                "updatedAt":  1793010360738,
+                                                "week":  "2026-10-26"
+                                            },
+                    "kirali-20261028-1800":  {
+                                                 "date":  "2026-10-28",
+                                                 "edited":  false,
+                                                 "host":  "kirali",
+                                                 "members":  [
+                                                                 "kirali"
+                                                             ],
+                                                 "platform":  "youtube",
+                                                 "src":  "schedule",
+                                                 "time":  "18:00",
+                                                 "title":  "跟朋友玩遊戲",
+                                                 "updatedAt":  1793010360738,
+                                                 "week":  "2026-10-26"
+                                             },
+                    "kirali-20261028-2200":  {
+                                                 "date":  "2026-10-28",
+                                                 "edited":  false,
+                                                 "host":  "kirali",
+                                                 "members":  [
+                                                                 "kirali"
+                                                             ],
+                                                 "membersOnly":  true,
+                                                 "platform":  "youtube",
+                                                 "src":  "schedule",
+                                                 "time":  "22:00",
+                                                 "title":  "開演前的聊天！",
+                                                 "updatedAt":  1793010360738,
+                                                 "week":  "2026-10-26"
+                                             },
+                    "kirali-20261101-2100":  {
+                                                 "date":  "2026-11-01",
+                                                 "edited":  false,
+                                                 "host":  "kirali",
+                                                 "members":  [
+                                                                 "kirali"
+                                                             ],
+                                                 "platform":  "youtube",
+                                                 "src":  "schedule",
+                                                 "sub":  "這次高流你們聽的開心嗎？",
+                                                 "time":  "21:00",
+                                                 "title":  "【歌回】演唱會歌回",
+                                                 "updatedAt":  1793010360738,
+                                                 "week":  "2026-10-26"
+                                             },
+                    "koyuki-20261026-1900":  {
+                                                 "date":  "2026-10-26",
+                                                 "edited":  false,
+                                                 "host":  "koyuki",
+                                                 "members":  [
+                                                                 "koyuki"
+                                                             ],
+                                                 "platform":  "youtube",
+                                                 "src":  "schedule",
+                                                 "time":  "19:00",
+                                                 "title":  "【頭貼回】一年一度的頭貼回，我真的很不會畫畫啦",
+                                                 "updatedAt":  1793010360738,
+                                                 "videoId":  "dFf2DdJqGEc",
+                                                 "week":  "2026-10-26"
+                                             },
+                    "koyuki-20261027-tbd":  {
+                                                "date":  "2026-10-27",
+                                                "edited":  false,
+                                                "host":  "koyuki",
+                                                "maybe":  true,
+                                                "members":  [
+                                                                "koyuki"
+                                                            ],
+                                                "platform":  "twitch",
+                                                "src":  "schedule",
+                                                "time":  null,
+                                                "title":  "應該是突發還債",
+                                                "updatedAt":  1793010360738,
+                                                "week":  "2026-10-26"
+                                            },
+                    "koyuki-20261028-2030":  {
+                                                 "date":  "2026-10-28",
+                                                 "edited":  false,
+                                                 "host":  "koyuki",
+                                                 "members":  [
+                                                                 "koyuki"
+                                                             ],
+                                                 "platform":  "twitch",
+                                                 "src":  "schedule",
+                                                 "time":  "20:30",
+                                                 "title":  "【台北仲夏夜之夢】阿包演的劇情遊戲，偷偷玩一下嘿嘿",
+                                                 "updatedAt":  1793010360738,
+                                                 "week":  "2026-10-26"
+                                             },
+                    "koyuki-20261029-2100":  {
+                                                 "date":  "2026-10-29",
+                                                 "edited":  false,
+                                                 "host":  "koyuki",
+                                                 "members":  [
+                                                                 "koyuki"
+                                                             ],
+                                                 "platform":  "twitch",
+                                                 "src":  "schedule",
+                                                 "time":  "21:00",
+                                                 "title":  "【台北仲夏夜之夢】應該還沒玩完，繼續攻略阿包💪",
+                                                 "updatedAt":  1793010360738,
+                                                 "week":  "2026-10-26"
+                                             },
+                    "koyuki-20261030-tbd":  {
+                                                "date":  "2026-10-30",
+                                                "edited":  false,
+                                                "host":  "koyuki",
+                                                "maybe":  true,
+                                                "members":  [
+                                                                "koyuki"
+                                                            ],
+                                                "platform":  "twitch",
+                                                "src":  "schedule",
+                                                "time":  null,
+                                                "title":  "隨機貂落",
+                                                "updatedAt":  1793010360738,
+                                                "week":  "2026-10-26"
+                                            },
+                    "koyuki-20261031-2000":  {
+                                                 "date":  "2026-10-31",
+                                                 "edited":  false,
+                                                 "host":  "koyuki",
+                                                 "members":  [
+                                                                 "koyuki"
+                                                             ],
+                                                 "platform":  "youtube",
+                                                 "src":  "schedule",
+                                                 "sub":  "雪貂會給你表演一個後空翻（並沒有）",
+                                                 "time":  "20:00",
+                                                 "title":  "【萬聖節點歌歌回】萬聖節投餵糖果",
+                                                 "updatedAt":  1793010360738,
+                                                 "week":  "2026-10-26"
+                                             },
+                    "koyuki-20261101-1800":  {
+                                                 "date":  "2026-11-01",
+                                                 "edited":  false,
+                                                 "host":  "koyuki",
+                                                 "members":  [
+                                                                 "koyuki"
+                                                             ],
+                                                 "platform":  "youtube",
+                                                 "src":  "schedule",
+                                                 "sub":  "請給予他一個誇獎",
+                                                 "time":  "18:00",
+                                                 "title":  "【雜談】這週是努力想酷酷活動的雪貂",
+                                                 "updatedAt":  1793010360738,
+                                                 "week":  "2026-10-26"
+                                             },
+                    "miri-20261026-1900":  {
+                                               "date":  "2026-10-26",
+                                               "edited":  false,
+                                               "host":  "miri",
+                                               "members":  [
+                                                               "miri"
+                                                           ],
+                                               "platform":  "youtube",
+                                               "src":  "schedule",
+                                               "time":  "19:00",
+                                               "title":  "【開箱】生日信件 part.2 之希望我念的完",
+                                               "updatedAt":  1793010805497,
+                                               "videoId":  "yNfJM9TC_EM",
+                                               "week":  "2026-10-26"
+                                           },
+                    "miri-20261027-2100":  {
+                                               "date":  "2026-10-27",
+                                               "edited":  false,
+                                               "host":  "miri",
+                                               "members":  [
+                                                               "miri"
+                                                           ],
+                                               "platform":  "twitch",
+                                               "src":  "schedule",
+                                               "time":  "21:00",
+                                               "title":  "【特戰英豪】瓦瓦！",
+                                               "updatedAt":  1793010360738,
+                                               "week":  "2026-10-26"
+                                           },
+                    "miri-20261028-1900":  {
+                                               "date":  "2026-10-28",
+                                               "edited":  false,
+                                               "host":  "miri",
+                                               "members":  [
+                                                               "miri"
+                                                           ],
+                                               "platform":  "youtube",
+                                               "src":  "schedule",
+                                               "time":  "19:00",
+                                               "title":  "【雜談】整理遊戲最後一關…？",
+                                               "updatedAt":  1793010360738,
+                                               "week":  "2026-10-26"
+                                           },
+                    "miri-20261029-2100":  {
+                                               "date":  "2026-10-29",
+                                               "edited":  false,
+                                               "host":  "miri",
+                                               "members":  [
+                                                               "miri"
+                                                           ],
+                                               "platform":  "twitch",
+                                               "src":  "schedule",
+                                               "time":  "21:00",
+                                               "title":  "【特戰英豪】好想…上分…",
+                                               "updatedAt":  1793010360738,
+                                               "week":  "2026-10-26"
+                                           },
+                    "miri-20261031-2100":  {
+                                               "date":  "2026-10-31",
+                                               "edited":  false,
+                                               "host":  "miri",
+                                               "members":  [
+                                                               "miri"
+                                                           ],
+                                               "platform":  "twitch",
+                                               "src":  "schedule",
+                                               "time":  "21:00",
+                                               "title":  "【鬥陣特攻】爐心超載啦!!",
+                                               "updatedAt":  1793010360738,
+                                               "week":  "2026-10-26"
+                                           },
+                    "miri-20261101-1900":  {
+                                               "date":  "2026-11-01",
+                                               "edited":  false,
+                                               "host":  "miri",
+                                               "members":  [
+                                                               "miri"
+                                                           ],
+                                               "platform":  "twitch",
+                                               "src":  "schedule",
+                                               "time":  "19:00",
+                                               "title":  "【璃我一下】水母大餐？",
+                                               "updatedAt":  1793010360738,
+                                               "week":  "2026-10-26"
+                                           },
+                    "sachi-20261028-2000":  {
+                                                "date":  "2026-10-28",
+                                                "edited":  false,
+                                                "host":  "sachi",
+                                                "members":  [
+                                                                "sachi",
+                                                                "hiyori",
+                                                                "ichii"
+                                                            ],
+                                                "platform":  "youtube",
+                                                "src":  "schedule",
+                                                "sub":  "ft. 煦Hiyori、莓Ichii",
+                                                "time":  "20:00",
+                                                "title":  "【幸好有理】雙人訪談企劃：莓你怎麼辦？",
+                                                "updatedAt":  1793010360738,
+                                                "week":  "2026-10-26"
+                                            },
+                    "sachi-20261030-1730":  {
+                                                "date":  "2026-10-30",
+                                                "edited":  false,
+                                                "host":  "sachi",
+                                                "members":  [
+                                                                "sachi"
+                                                            ],
+                                                "platform":  "youtube",
+                                                "src":  "schedule",
+                                                "time":  "17:30",
+                                                "title":  "【下班小確幸】聊聊這週和上週都做了什麼",
+                                                "updatedAt":  1793010360738,
+                                                "week":  "2026-10-26"
+                                            },
+                    "yuzumi-20261026-1400":  {
+                                                 "date":  "2026-10-26",
+                                                 "edited":  false,
+                                                 "host":  "yuzumi",
+                                                 "members":  [
+                                                                 "yuzumi"
+                                                             ],
+                                                 "platform":  "twitch",
+                                                 "src":  "schedule",
+                                                 "time":  "14:00",
+                                                 "title":  "大俠出沒",
+                                                 "updatedAt":  1793010360738,
+                                                 "week":  "2026-10-26"
+                                             },
+                    "yuzumi-20261028-1500":  {
+                                                 "date":  "2026-10-28",
+                                                 "edited":  false,
+                                                 "host":  "yuzumi",
+                                                 "members":  [
+                                                                 "yuzumi"
+                                                             ],
+                                                 "platform":  "youtube",
+                                                 "src":  "schedule",
+                                                 "sub":  "VALORANT",
+                                                 "time":  "15:00",
+                                                 "title":  "SOLO RANK",
+                                                 "updatedAt":  1793010360738,
+                                                 "week":  "2026-10-26"
+                                             },
+                    "yuzumi-20261029-tbd":  {
+                                                "date":  "2026-10-29",
+                                                "edited":  false,
+                                                "host":  "yuzumi",
+                                                "maybe":  true,
+                                                "members":  [
+                                                                "yuzumi"
+                                                            ],
+                                                "platform":  "youtube",
+                                                "src":  "schedule",
+                                                "time":  null,
+                                                "title":  "我是條軟爛的小蟲",
+                                                "updatedAt":  1793010360738,
+                                                "week":  "2026-10-26"
+                                            },
+                    "yuzumi-20261030-1400":  {
+                                                 "date":  "2026-10-30",
+                                                 "edited":  false,
+                                                 "host":  "yuzumi",
+                                                 "members":  [
+                                                                 "yuzumi"
+                                                             ],
+                                                 "platform":  "twitch",
+                                                 "src":  "schedule",
+                                                 "time":  "14:00",
+                                                 "title":  "大俠出沒",
+                                                 "updatedAt":  1793010360738,
+                                                 "week":  "2026-10-26"
+                                             },
+                    "yuzumi-20261101-1000":  {
+                                                 "date":  "2026-11-01",
+                                                 "edited":  false,
+                                                 "host":  "yuzumi",
+                                                 "members":  [
+                                                                 "yuzumi"
+                                                             ],
+                                                 "platform":  "youtube",
+                                                 "src":  "schedule",
+                                                 "sub":  "おはよう🔅 11月有大事情，你們知道嗎？",
+                                                 "time":  "10:00",
+                                                 "title":  "早橙電台",
+                                                 "updatedAt":  1793010360738,
+                                                 "week":  "2026-10-26"
+                                             }
+                },
+    "schedules":  {
+                      "hitomi-2026-10-26":  {
+                                                "kind":  "frame",
+                                                "label":  "【Schedule \u0026 Free Chat】咪飯們！征服世界的第幾周我其實已經忘記了！",
+                                                "link":  "https://www.youtube.com/watch?v=LCTqnUYmpEg",
+                                                "member":  "hitomi",
+                                                "notes":  [
+                                                              {
+                                                                  "date":  "2026-10-26",
+                                                                  "text":  "休息日",
+                                                                  "type":  "off"
+                                                              },
+                                                              {
+                                                                  "date":  "2026-10-29",
+                                                                  "text":  "休息日",
+                                                                  "type":  "off"
+                                                              },
+                                                              {
+                                                                  "date":  "2026-10-31",
+                                                                  "text":  "休息日",
+                                                                  "type":  "off"
+                                                              }
+                                                          ],
+                                                "processedAt":  1793010360738,
+                                                "sha":  [
+                                                            "F89F3BA6C90D7EC9DEC066ED4FC13089D502B1B4C3A547FAFC115962B9651543"
+                                                        ],
+                                                "week":  "2026-10-26"
+                                            },
+                      "iruni-2026-10-26":  {
+                                               "kind":  "post",
+                                               "label":  "【10.26-11.01周表】",
+                                               "link":  "https://www.youtube.com/post/UgkxW-gUb3OjPk1_Vtt2p8iWwDIjTSWU6O9Q",
+                                               "member":  "iruni",
+                                               "notes":  [
+                                                             {
+                                                                 "date":  "2026-10-29",
+                                                                 "text":  "練習派對",
+                                                                 "type":  "event"
+                                                             },
+                                                             {
+                                                                 "date":  "2026-10-30",
+                                                                 "text":  "彩排派對",
+                                                                 "type":  "event"
+                                                             },
+                                                             {
+                                                                 "date":  "2026-10-31",
+                                                                 "text":  "【V FUTURE PARTY】@高雄流行音樂中心",
+                                                                 "type":  "event"
+                                                             }
+                                                         ],
+                                               "processedAt":  1793010360738,
+                                               "sha":  [
+                                                           "EAD4ACB05798FE08FA869390BB40BB60EB4FC0B6F3450EA762AD19FBDBABE472"
+                                                       ],
+                                               "week":  "2026-10-26"
+                                           },
+                      "iseri-2026-10-26":  {
+                                               "kind":  "post",
+                                               "label":  "﹝10.26-11.01 周表﹞",
+                                               "link":  "https://www.youtube.com/post/Ugkxl5TMrVlDqubrZbDO1R_Ek6Cpb-_F150k",
+                                               "member":  "iseri",
+                                               "notes":  [
+                                                             {
+                                                                 "date":  "2026-10-31",
+                                                                 "text":  "宓宓糊糊的休假",
+                                                                 "type":  "off"
+                                                             }
+                                                         ],
+                                               "processedAt":  1793010360738,
+                                               "sha":  [
+                                                           "4A4E69CAC2B4179106A51E3914A0DBBDDB5C7DFD4867831FFC69E2772992C88F",
+                                                           "52DE5F3694284527FBDDDA15851C443C690A2E43831F5A79079E146D0A807257"
+                                                       ],
+                                               "week":  "2026-10-26"
+                                           },
+                      "kirali-2026-10-26":  {
+                                                "kind":  "post",
+                                                "label":  "【10/26-11/1課表】",
+                                                "link":  "https://www.youtube.com/post/Ugkx_hfPLF7AJ52hgrbseha8xxiim_y_viiZ",
+                                                "member":  "kirali",
+                                                "notes":  [
+                                                              {
+                                                                  "date":  "2026-10-29",
+                                                                  "text":  "準備出發高流",
+                                                                  "type":  "event"
+                                                              },
+                                                              {
+                                                                  "date":  "2026-10-30",
+                                                                  "text":  "要跟大家見面了",
+                                                                  "type":  "event"
+                                                              },
+                                                              {
+                                                                  "date":  "2026-10-31",
+                                                                  "text":  "高流演唱會就是今天！",
+                                                                  "type":  "event"
+                                                              }
+                                                          ],
+                                                "processedAt":  1793010360738,
+                                                "sha":  [
+                                                            "26DE6DAB8B412634154FF44D05BE8FBDF7EF0B7C95ED22CA08678FCFBBF2357A",
+                                                            "1B3CA6D5866E013CD24A865F7076C1D89A89CDCB91988A6561DE909FFFCAE1A3"
+                                                        ],
+                                                "week":  "2026-10-26"
+                                            },
+                      "koyuki-2026-10-26":  {
+                                                "kind":  "post",
+                                                "label":  "【10/26 - 11/01 週表】",
+                                                "link":  "https://www.youtube.com/post/UgkxM4wYQgCQYHqPiLtwRZmsxFUApjGojuqY",
+                                                "member":  "koyuki",
+                                                "notes":  [
+
+                                                          ],
+                                                "processedAt":  1793010360738,
+                                                "sha":  [
+                                                            "CBBF48248DAEBA36E2284398C3B179A52E5477562B3421B58CBACA2E7184188D",
+                                                            "097D88964D499EE21A1708FE91F473FEAABCCE7C9B773259607479D40F93D180"
+                                                        ],
+                                                "week":  "2026-10-26"
+                                            },
+                      "miri-2026-10-26":  {
+                                              "kind":  "frame",
+                                              "label":  "【週表】1026 - 1101｜璃Miri",
+                                              "link":  "https://www.youtube.com/watch?v=eTkyhCecWhg",
+                                              "member":  "miri",
+                                              "notes":  [
+                                                            {
+                                                                "date":  "2026-10-30",
+                                                                "text":  "目前璃線中！",
+                                                                "type":  "off"
+                                                            }
+                                                        ],
+                                              "processedAt":  1793010360738,
+                                              "sha":  [
+                                                          "454AE601DD8EC5824F4FF24D8F7EFAB85E888ED14EB1936CCE407DEBAE49427A"
+                                                      ],
+                                              "week":  "2026-10-26"
+                                          },
+                      "sachi-2026-10-26":  {
+                                               "kind":  "post",
+                                               "label":  "【10.26-11.01】",
+                                               "link":  "https://www.youtube.com/post/UgkxE5TRkjg9HvPH34iF4x3PcaBE2Ycq2gri",
+                                               "member":  "sachi",
+                                               "notes":  [
+                                                             {
+                                                                 "date":  "2026-10-26",
+                                                                 "text":  "秘書今天休假",
+                                                                 "type":  "off"
+                                                             },
+                                                             {
+                                                                 "date":  "2026-10-27",
+                                                                 "text":  "秘書今天休假",
+                                                                 "type":  "off"
+                                                             },
+                                                             {
+                                                                 "date":  "2026-10-29",
+                                                                 "text":  "秘書今天休假",
+                                                                 "type":  "off"
+                                                             },
+                                                             {
+                                                                 "date":  "2026-10-31",
+                                                                 "text":  "秘書今天休假",
+                                                                 "type":  "off"
+                                                             },
+                                                             {
+                                                                 "date":  "2026-11-01",
+                                                                 "text":  "秘書今天休假",
+                                                                 "type":  "off"
+                                                             }
+                                                         ],
+                                               "processedAt":  1793010360738,
+                                               "sha":  [
+                                                           "286B789249F92C5AF010BE0415B454CC022E09F60EDA4A1AE61899F87EA78F10",
+                                                           "87A9EF6152AE0D9AE2FF247D3C8421594C5A48A0516293395C7F11CA6462BCA6"
+                                                       ],
+                                               "week":  "2026-10-26"
+                                           },
+                      "yuzumi-2026-10-26":  {
+                                                "kind":  "frame",
+                                                "label":  "【Schedule \u0026 Free Chat】柚柚班自主學習教室",
+                                                "link":  "https://www.youtube.com/watch?v=i0AjfdRW5nk",
+                                                "member":  "yuzumi",
+                                                "notes":  [
+                                                              {
+                                                                  "date":  "2026-10-27",
+                                                                  "text":  "休息",
+                                                                  "type":  "off"
+                                                              },
+                                                              {
+                                                                  "date":  "2026-10-31",
+                                                                  "text":  "休息",
+                                                                  "type":  "off"
+                                                              }
+                                                          ],
+                                                "processedAt":  1793010360738,
+                                                "sha":  [
+                                                            "4B8A82E4F8AA159A5A7D901ED98B6F25D828FD94DE238579475C285BD9BA953B"
+                                                        ],
+                                                "week":  "2026-10-26"
+                                            }
+                  },
+    "meta":  {
+                 "status":  {
+                                "by":  "setup",
+                                "lastRunAt":  1793010805497,
+                                "ok":  true,
+                                "summary":  "煌Kirali、幸Sachi、雪Koyuki、宓Iseri 的待機室封面和貼文一致；璃Miri 週一 19:00 接上待機室。還沒發：澪Rei、玥Itsuki、煦Hiyori、莓Ichii"
+                            }
+             }
+}
