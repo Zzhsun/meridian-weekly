@@ -203,14 +203,14 @@
     if (missing.length && act.length) {
       const links = [];
       missing.forEach((m, i) => { if (i) links.push('、'); links.push(h('a', { href: `https://www.youtube.com/channel/${encodeURIComponent(m.yt || '')}/posts`, target: '_blank', rel: 'noopener' }, m.name)); });
-      miss.replaceChildren('這週還沒抓到：', ...links, h('span', { class: 'hint' }, '。下次自動更新是週二晚上 7 點。'));
+      miss.replaceChildren('這週還沒抓到：', ...links, h('span', { class: 'hint' }, '。下次自動更新是週二晚上 6 點。'));
       miss.hidden = false;
     } else miss.hidden = true;
   }
 
   function emptyState() {
     if (S.mode === 'mine') return h('div', { class: 'empty' }, h('b', null, '還沒選任何台'), h('p', null, '切回「全部台」，點一場選「看直播」或「晚點補檔」，這裡就會變成只屬於你的週表。'));
-    return h('div', { class: 'empty' }, h('b', null, '這週還沒有週表'), h('p', null, '每週二晚上 7 點會自動抓 12 位成員的 YouTube 貼文和週表待機室。臨時想記的台，可以先按「＋ 自己加一場」。'));
+    return h('div', { class: 'empty' }, h('b', null, '這週還沒有週表'), h('p', null, '每週二晚上 6 點會自動抓 12 位成員的 YouTube 貼文和週表待機室。臨時想記的台，可以先按「＋ 自己加一場」。'));
   }
 
   function tagList(st) {
