@@ -46,7 +46,8 @@
                                   "seen":  [
                                                "7ABF17C0F858F24116902864318564B56048851ED980FC39A9EAB6D2EB430E31",
                                                "9AEF1F041463F0AB8B721A169166EB7E4BC7C1F87422AD8315C103530B64BFC7",
-                                               "BE8A2BBD65CB8AA7CCD0ECE36230907D1A31BCCF969E5EFF5B2F9DAB71D23D56"
+                                               "BE8A2BBD65CB8AA7CCD0ECE36230907D1A31BCCF969E5EFF5B2F9DAB71D23D56",
+                                               "C829F04E29AD4CA484955B003629121F35C5792E2DE55CE7D8AD8B27AE030E71"
                                            ],
                                   "twitch":  "ichii_aetris",
                                   "yt":  "UCt0CvoFAgrhVYd1X4P5Lqng"
@@ -96,7 +97,8 @@
                                    "posts":  true,
                                    "seen":  [
                                                 "4A4310653C3EB43DB7E66D1D584E562B6EE88F9572EC5F3254289068A683BEC0",
-                                                "6FE6549BC9B2B71E9500DE78BDF240B1B5AC905C6DBAA6B6B0C5B9488333D27B"
+                                                "6FE6549BC9B2B71E9500DE78BDF240B1B5AC905C6DBAA6B6B0C5B9488333D27B",
+                                                "F5301481408EF5E09C58D109EB6FC4005053AC1F551931F79A8C43C527CDF997"
                                             ],
                                    "twitch":  "itsuki_ianvs",
                                    "yt":  "UCk-n2qPASA48IPgtYAsLYJg"
@@ -747,7 +749,160 @@
                                                  "title":  "早橙電台",
                                                  "updatedAt":  1793010360738,
                                                  "week":  "2026-10-26"
-                                             }
+                                             },
+                    "itsuki-20261027-tbd":  {
+                                                "host":  "itsuki",
+                                                "members":  [
+                                                                "itsuki"
+                                                            ],
+                                                "date":  "2026-10-27",
+                                                "time":  null,
+                                                "title":  "隨玥而安｜畫高流認親圖",
+                                                "platform":  "twitch",
+                                                "maybe":  false,
+                                                "membersOnly":  false,
+                                                "low":  false,
+                                                "week":  "2026-10-26",
+                                                "src":  "schedule",
+                                                "edited":  false,
+                                                "updatedAt":  1793106914254
+                                            },
+                    "itsuki-20261028-tbd":  {
+                                                "host":  "itsuki",
+                                                "members":  [
+                                                                "itsuki"
+                                                            ],
+                                                "date":  "2026-10-28",
+                                                "time":  null,
+                                                "title":  "隨玥而安｜必須的",
+                                                "platform":  "twitch",
+                                                "maybe":  false,
+                                                "membersOnly":  false,
+                                                "low":  false,
+                                                "week":  "2026-10-26",
+                                                "src":  "schedule",
+                                                "edited":  false,
+                                                "updatedAt":  1793106914254
+                                            },
+                    "itsuki-20261101-tbd":  {
+                                                "host":  "itsuki",
+                                                "members":  [
+                                                                "itsuki"
+                                                            ],
+                                                "date":  "2026-11-01",
+                                                "time":  null,
+                                                "title":  "昨天是藤井風演唱會｜突發",
+                                                "platform":  "twitch",
+                                                "maybe":  true,
+                                                "membersOnly":  false,
+                                                "low":  false,
+                                                "week":  "2026-10-26",
+                                                "src":  "schedule",
+                                                "edited":  false,
+                                                "updatedAt":  1793106914254
+                                            },
+                    "ichii-20261026-tbd":  {
+                                               "host":  "ichii",
+                                               "members":  [
+                                                               "ichii"
+                                                           ],
+                                               "date":  "2026-10-26",
+                                               "time":  null,
+                                               "title":  "莓開台",
+                                               "platform":  "youtube",
+                                               "maybe":  false,
+                                               "membersOnly":  false,
+                                               "low":  false,
+                                               "week":  "2026-10-26",
+                                               "src":  "schedule",
+                                               "edited":  false,
+                                               "updatedAt":  1793106914254
+                                           },
+                    "ichii-20261027-2000":  {
+                                                "host":  "ichii",
+                                                "members":  [
+                                                                "ichii"
+                                                            ],
+                                                "date":  "2026-10-27",
+                                                "time":  "20:00",
+                                                "title":  "【麻糗🀄】和莓乃滋一起",
+                                                "platform":  "twitch",
+                                                "maybe":  false,
+                                                "membersOnly":  false,
+                                                "low":  false,
+                                                "week":  "2026-10-26",
+                                                "src":  "schedule",
+                                                "edited":  false,
+                                                "updatedAt":  1793106914254
+                                            },
+                    "ichii-20261029-1400":  {
+                                                "host":  "ichii",
+                                                "members":  [
+                                                                "ichii"
+                                                            ],
+                                                "date":  "2026-10-29",
+                                                "time":  "14:00",
+                                                "title":  "【午安莓好😋】一起吃涼麵🍽️",
+                                                "platform":  "youtube",
+                                                "maybe":  false,
+                                                "membersOnly":  false,
+                                                "low":  false,
+                                                "week":  "2026-10-26",
+                                                "src":  "schedule",
+                                                "edited":  false,
+                                                "updatedAt":  1793106914254
+                                            },
+                    "ichii-20261030-tbd":  {
+                                               "host":  "ichii",
+                                               "members":  [
+                                                               "ichii"
+                                                           ],
+                                               "date":  "2026-10-30",
+                                               "time":  null,
+                                               "title":  "莓開台",
+                                               "platform":  "youtube",
+                                               "maybe":  false,
+                                               "membersOnly":  false,
+                                               "low":  false,
+                                               "week":  "2026-10-26",
+                                               "src":  "schedule",
+                                               "edited":  false,
+                                               "updatedAt":  1793106914254
+                                           },
+                    "ichii-20261031-tbd":  {
+                                               "host":  "ichii",
+                                               "members":  [
+                                                               "ichii"
+                                                           ],
+                                               "date":  "2026-10-31",
+                                               "time":  null,
+                                               "title":  "莓開台",
+                                               "platform":  "youtube",
+                                               "maybe":  false,
+                                               "membersOnly":  false,
+                                               "low":  false,
+                                               "week":  "2026-10-26",
+                                               "src":  "schedule",
+                                               "edited":  false,
+                                               "updatedAt":  1793106914254
+                                           },
+                    "ichii-20261101-2100":  {
+                                                "host":  "ichii",
+                                                "members":  [
+                                                                "ichii"
+                                                            ],
+                                                "date":  "2026-11-01",
+                                                "time":  "21:00",
+                                                "title":  "【LOL⚔️】RRRRRRRR戰鬥爽",
+                                                "platform":  "twitch",
+                                                "maybe":  false,
+                                                "membersOnly":  false,
+                                                "low":  false,
+                                                "week":  "2026-10-26",
+                                                "src":  "schedule",
+                                                "edited":  false,
+                                                "updatedAt":  1793106914254
+                                            }
                 },
     "schedules":  {
                       "hitomi-2026-10-26":  {
@@ -948,14 +1103,56 @@
                                                             "4B8A82E4F8AA159A5A7D901ED98B6F25D828FD94DE238579475C285BD9BA953B"
                                                         ],
                                                 "week":  "2026-10-26"
-                                            }
+                                            },
+                      "itsuki-2026-10-26":  {
+                                                "member":  "itsuki",
+                                                "week":  "2026-10-26",
+                                                "kind":  "post",
+                                                "link":  "https://www.youtube.com/post/Ugkx95ABZz5Hg5-81FqEDNORWEjImBMt74So",
+                                                "label":  "10/26 - 11/01 週表發佈",
+                                                "sha":  [
+                                                            "F5301481408EF5E09C58D109EB6FC4005053AC1F551931F79A8C43C527CDF997"
+                                                        ],
+                                                "processedAt":  1793106914254,
+                                                "notes":  [
+                                                              {
+                                                                  "date":  "2026-10-29",
+                                                                  "type":  "event",
+                                                                  "text":  "鍬寶寶出差"
+                                                              },
+                                                              {
+                                                                  "date":  "2026-10-30",
+                                                                  "type":  "event",
+                                                                  "text":  "鍬寶寶出差"
+                                                              },
+                                                              {
+                                                                  "date":  "2026-10-31",
+                                                                  "type":  "event",
+                                                                  "text":  "高雄 V Future Party！｜海音館見！"
+                                                              }
+                                                          ]
+                                            },
+                      "ichii-2026-10-26":  {
+                                               "member":  "ichii",
+                                               "week":  "2026-10-26",
+                                               "kind":  "frame",
+                                               "link":  "https://www.youtube.com/watch?v=8lEfG-uV19Y",
+                                               "label":  "【週表】阿莓去哪兒？",
+                                               "sha":  [
+                                                           "C829F04E29AD4CA484955B003629121F35C5792E2DE55CE7D8AD8B27AE030E71"
+                                                       ],
+                                               "processedAt":  1793106914254,
+                                               "notes":  [
+
+                                                         ]
+                                           }
                   },
     "meta":  {
                  "status":  {
-                                "by":  "setup",
-                                "lastRunAt":  1793010805497,
+                                "by":  "auto",
+                                "lastRunAt":  1793106914254,
                                 "ok":  true,
-                                "summary":  "煌Kirali、幸Sachi、雪Koyuki、宓Iseri 的待機室封面和貼文一致；璃Miri 週一 19:00 接上待機室。還沒發：澪Rei、玥Itsuki、煦Hiyori、莓Ichii"
+                                "summary":  "新增玥Itsuki、莓Ichii 的本週週表。還沒發：澪Rei、煦Hiyori"
                             }
              }
 }
